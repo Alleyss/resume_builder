@@ -1,0 +1,6 @@
+geometry
+inputenc
+fontenc
+hyperref
+fontawesome
+enumitem

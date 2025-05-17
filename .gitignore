@@ -1,0 +1,4 @@
+.env
+.streamlit
+compiled_pdfs
+__pycache__
